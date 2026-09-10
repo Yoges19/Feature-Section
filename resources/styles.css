@@ -110,6 +110,9 @@
     }
 
     @media screen and (min-width: 642px) {
+      body {
+        background-image: url(/resources/Background_image@2x.png);
+      }
       header{
         display: block;
         margin-left: auto;
@@ -126,6 +129,9 @@
     }
 
     @media screen and (min-width: 1025px) {
+      body {
+        background-image: url(/resources/Background_image@3x.png);
+      }
       header{
         display: block;
         margin-left: auto;
