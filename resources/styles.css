@@ -153,4 +153,9 @@
         font-size: 1.3rem;
       }
 
+      .card-logo {
+        text-align: center;
+        font-size: 1.6rem;
+      }
+
     }
